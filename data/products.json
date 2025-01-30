@@ -1,0 +1,104 @@
+
+[
+  {
+    "id": "1",
+    "model": "Apple I",
+    "manufacturer": "Apple",
+    "releaseDate": "1976-04-01",
+    "price": "666.66",
+    "currency": "USD",
+    "description": "One of the first personal computers, hand-built by Steve Wozniak.",
+    "image":"http://localhost/apiProductosPhpJson/images/appleI.jpg"
+  },
+  
+  {
+    "id": "2",
+    "model": "IBM PC",
+    "manufacturer": "IBM",
+    "releaseDate": "1981-08-12",
+    "price": "1,565.00",
+    "currency": "USD",
+    "description": "Revolutionized the personal computer market and set industry standards.",
+    "image":"http://localhost/apiProductosPhpJson/images/IBM_PC.jpg"
+  },
+  {
+    "id": "3",
+    "model": "Commodore 64",
+    "manufacturer": "Commodore",
+    "releaseDate": "1982-08-01",
+    "price": "595.00",
+    "currency": "USD",
+    "description": "Popular home computer known for its advanced graphics and sound.",
+    "image":"http://localhost/apiProductosPhpJson/images/commodore64.jpg"
+  },
+  {
+    "id": "4",
+    "model": "Macintosh",
+    "manufacturer": "Apple",
+    "releaseDate": "1984-01-24",
+    "price": "2,495.00",
+    "currency": "USD",
+    "description": "First successful personal computer with a graphical user interface.",
+    "image":"http://localhost/apiProductosPhpJson/images/macintosh.jpg"
+  },
+  {
+    "id": "5",
+    "model": "NeXT Computer",
+    "manufacturer": "NeXT",
+    "releaseDate": "1988-10-12",
+    "price": "6,500.00",
+    "currency": "USD",
+    "description": "Developed by Steve Jobs, it was used to create the World Wide Web.",
+    "image":"http://localhost/apiProductosPhpJson/images/NeXTComputer.jpeg"
+  },
+  {
+    "id": "6",
+    "model": "IBM ThinkPad 701",
+    "manufacturer": "IBM",
+    "releaseDate": "1995-09-01",
+    "price": "2,500.00",
+    "currency": "USD",
+    "description": "Known for its innovative butterfly keyboard design.",
+    "image":"http://localhost/apiProductosPhpJson/images/IBMThinkPad701.jpg"
+  },
+  {
+    "id": "7",
+    "model": "Sony PlayStation 2",
+    "manufacturer": "Sony",
+    "releaseDate": "2000-03-04",
+    "price": "299.00",
+    "currency": "USD",
+    "description": "Became the best-selling video game console of all time.",
+    "image":"http://localhost/apiProductosPhpJson/images/SonyPlayStation2.jpg"
+  },
+  {
+    "id": "8",
+    "model": "Apple MacBook Air",
+    "manufacturer": "Apple",
+    "releaseDate": "2008-01-15",
+    "price": "1,799.00",
+    "currency": "USD",
+    "description": "Thinnest laptop at its release, popularized the ultrabook category.",
+    "image":"http://localhost/apiProductosPhpJson/images/AppleMacBookAir.jpg"
+  },
+  {
+    "id": "9",
+    "model": "Microsoft Surface Pro",
+    "manufacturer": "Microsoft",
+    "releaseDate": "2013-02-09",
+    "price": "899.00",
+    "currency": "USD",
+    "description": "Innovative 2-in-1 device that blended tablet and laptop functionalities.",
+    "image":"http://localhost/apiProductosPhpJson/images/MicrosoftSurfacePro.jpg"
+  },
+  {
+    "id": "10",
+    "model": "Raspberry Pi",
+    "manufacturer": "Raspberry Pi Foundation",
+    "releaseDate": "2012-02-29",
+    "price": "35.00",
+    "currency": "USD",
+    "description": "Affordable computer aimed at promoting programming and electronics.",
+    "image":"http://localhost/apiProductosPhpJson/images/RaspberryPi.jpg"
+  }
+]
