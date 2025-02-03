@@ -8,7 +8,7 @@
     "price": "666.66",
     "currency": "USD",
     "description": "One of the first personal computers, hand-built by Steve Wozniak.",
-    "image":"/apiProductosPhpJson/images/appleI.jpg"
+    "image":"apiproductos.duckdns.org/images/appleI.jpg"
   },
   
   {
@@ -19,7 +19,7 @@
     "price": "1,565.00",
     "currency": "USD",
     "description": "Revolutionized the personal computer market and set industry standards.",
-    "image":"/apiProductosPhpJson/images/IBM_PC.jpg"
+    "image":"apiproductos.duckdns.org/images/IBM_PC.jpg"
   },
   {
     "id": "3",
@@ -29,7 +29,7 @@
     "price": "595.00",
     "currency": "USD",
     "description": "Popular home computer known for its advanced graphics and sound.",
-    "image":"/apiProductosPhpJson/images/commodore64.jpg"
+    "image":"apiproductos.duckdns.org/images/commodore64.jpg"
   },
   {
     "id": "4",
@@ -39,7 +39,7 @@
     "price": "2,495.00",
     "currency": "USD",
     "description": "First successful personal computer with a graphical user interface.",
-    "image":"/apiProductosPhpJson/images/macintosh.jpg"
+    "image":"apiproductos.duckdns.org/images/macintosh.jpg"
   },
   {
     "id": "5",
@@ -49,7 +49,7 @@
     "price": "6,500.00",
     "currency": "USD",
     "description": "Developed by Steve Jobs, it was used to create the World Wide Web.",
-    "image":"/apiProductosPhpJson/images/NeXTComputer.jpeg"
+    "image":"apiproductos.duckdns.org/images/NeXTComputer.jpeg"
   },
   {
     "id": "6",
@@ -59,7 +59,7 @@
     "price": "2,500.00",
     "currency": "USD",
     "description": "Known for its innovative butterfly keyboard design.",
-    "image":"/apiProductosPhpJson/images/IBMThinkPad701.jpg"
+    "image":"apiproductos.duckdns.org/images/IBMThinkPad701.jpg"
   },
   {
     "id": "7",
@@ -69,7 +69,7 @@
     "price": "299.00",
     "currency": "USD",
     "description": "Became the best-selling video game console of all time.",
-    "image":"/apiProductosPhpJson/images/SonyPlayStation2.jpg"
+    "image":"apiproductos.duckdns.org/images/SonyPlayStation2.jpg"
   },
   {
     "id": "8",
@@ -79,7 +79,7 @@
     "price": "1,799.00",
     "currency": "USD",
     "description": "Thinnest laptop at its release, popularized the ultrabook category.",
-    "image":"/apiProductosPhpJson/images/AppleMacBookAir.jpg"
+    "image":"apiproductos.duckdns.org/images/AppleMacBookAir.jpg"
   },
   {
     "id": "9",
@@ -89,7 +89,7 @@
     "price": "899.00",
     "currency": "USD",
     "description": "Innovative 2-in-1 device that blended tablet and laptop functionalities.",
-    "image":"/apiProductosPhpJson/images/MicrosoftSurfacePro.jpg"
+    "image":"apiproductos.duckdns.org/images/MicrosoftSurfacePro.jpg"
   },
   {
     "id": "10",
@@ -99,6 +99,6 @@
     "price": "35.00",
     "currency": "USD",
     "description": "Affordable computer aimed at promoting programming and electronics.",
-    "image":"/apiProductosPhpJson/images/RaspberryPi.jpg"
+    "image":"apiproductos.duckdns.org/images/RaspberryPi.jpg"
   }
 ]
